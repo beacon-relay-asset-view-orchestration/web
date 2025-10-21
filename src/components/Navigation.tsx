@@ -7,10 +7,10 @@ export default function Navigation() {
   const pathname = usePathname();
 
   const links = [
-    { href: '/bravo', label: 'Home' },
-    { href: '/bravo/telemetry', label: 'Device Telemetry' },
-    { href: '/bravo/map', label: 'Map Visualization' },
-    { href: '/bravo/offline-cache', label: 'Offline Cache' },
+    { href: '/', label: 'Home' },
+    { href: '/telemetry', label: 'Device Telemetry' },
+    { href: '/map', label: 'Map Visualization' },
+    { href: '/offline-cache', label: 'Offline Cache' },
   ];
 
   return (

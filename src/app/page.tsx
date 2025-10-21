@@ -13,7 +13,7 @@ export default function Home() {
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
           <Link
-            href="/bravo/telemetry"
+            href="/telemetry"
             className="block p-6 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow border border-gray-200"
           >
             <h2 className="text-2xl font-semibold mb-3 text-gray-900">
@@ -25,7 +25,7 @@ export default function Home() {
           </Link>
 
           <Link
-            href="/bravo/map"
+            href="/map"
             className="block p-6 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow border border-gray-200"
           >
             <h2 className="text-2xl font-semibold mb-3 text-gray-900">
@@ -37,7 +37,7 @@ export default function Home() {
           </Link>
 
           <Link
-            href="/bravo/offline-cache"
+            href="/offline-cache"
             className="block p-6 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow border border-gray-200"
           >
             <h2 className="text-2xl font-semibold mb-3 text-gray-900">
