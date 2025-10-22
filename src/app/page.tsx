@@ -5,7 +5,7 @@ export default function Home() {
     <div className="container mx-auto px-4 py-8">
       <div className="max-w-4xl mx-auto">
         <h1 className="text-4xl font-bold mb-6 text-gray-900">
-          B.R.A.V.O Dashboard
+          B.R.A.V.O. Dashboard
         </h1>
         <p className="text-xl text-gray-600 mb-8">
           BT Radio Advanced Visual Orchestration
@@ -55,7 +55,7 @@ export default function Home() {
           </h3>
           <p className="text-gray-700">
             Select a section from the navigation above or click on one of the cards
-            to explore the B.R.A.V.O dashboard features.
+            to explore the B.R.A.V.O. dashboard features.
           </p>
         </div>
       </div>

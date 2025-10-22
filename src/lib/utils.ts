@@ -1,5 +1,5 @@
 /**
- * Utility functions for the B.R.A.V.O dashboard
+ * Utility functions for the B.R.A.V.O. dashboard
  */
 
 /**

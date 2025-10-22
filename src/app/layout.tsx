@@ -3,7 +3,7 @@ import "./globals.css";
 import Navigation from "@/components/Navigation";
 
 export const metadata: Metadata = {
-  title: "B.R.A.V.O Dashboard",
+  title: "B.R.A.V.O. Dashboard",
   description: "BT Radio Advanced Visual Orchestration Dashboard",
 };
 

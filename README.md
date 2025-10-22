@@ -1,4 +1,4 @@
-# B.R.A.V.O Dashboard
+# B.R.A.V.O. Dashboard
 
 **BT Radio Advanced Visual Orchestration** - A comprehensive web dashboard for monitoring and managing radio devices.
 
@@ -201,7 +201,7 @@ NEXT_PUBLIC_MAP_TILE_URL=https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
 
 ## License
 
-This project is part of the B.R.A.V.O system.
+This project is part of the B.R.A.V.O. system.
 
 ## Support
 
