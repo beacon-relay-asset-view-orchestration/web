@@ -112,7 +112,7 @@ npm run start
 
 ## Deployment
 
-The application is configured to deploy automatically to AWS when changes are pushed to the `main` branch.
+The application is configured to deploy automatically to AWS when a release is published.
 
 ### AWS Configuration
 
@@ -145,7 +145,7 @@ The `.github/workflows/deploy.yml` file contains the CI/CD pipeline that:
 5. Invalidates CloudFront cache
 
 The workflow runs automatically on:
-- Push to `main` branch
+- Release published
 - Manual trigger via GitHub Actions UI
 
 ## Environment Variables
